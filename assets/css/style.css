@@ -64,6 +64,13 @@ body {
     padding: 25%;
     color: #1b0132;
 }
+/*-------------------------------- Visitor Information*/
+h2, h3 {
+    color: #ffdc00;
+}
+p {
+    color: cornsilk;
+}
 
 
 
