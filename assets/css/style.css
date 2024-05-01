@@ -19,8 +19,8 @@
 }
 
 .navbar img {
-    display: inline-block;
-    max-height: 5rem;
+    display:inline-block;
+    max-height: 4rem;
     margin-right: 0.5rem;
 }
 
@@ -29,9 +29,49 @@
     font-weight: 500;
 }
 
+/* Index Page */
+.Hogsmeade-ind {
+    background-color: #1b0132;
+    border-style: solid;
+    border-color: #ffdc00;
+}
+
+.main-heading {
+    color: #1b0132;
+}
+
+.nav-item {
+    margin-right: 1rem;
+    color: #1b0132;
+}
+
 body {
     font-family: 'Roboto', serif;
     background-color: #1b0132;
+}
+
+/* Carousel */
+.carousel-inner {
+    height: 492px;
+    
+}
+.carousel-item img {
+    margin:auto
+
+}
+h5 {
+    font-family: 'Roboto', serif;
+    color:cornsilk;
+}
+
+.about-hog h2 {
+    color: #ffdc00;
+}
+
+
+.about-hog {
+    margin-bottom: 100px;
+    text-align: center;
 }
 
 /* Footer */
