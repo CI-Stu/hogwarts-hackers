@@ -71,7 +71,7 @@ h1, h3 {
 .Transport-head {
     padding: 20px;
 }
-p {
+p,li{
     color: cornsilk;
     padding: 15px 0;
     font-size: 20px;
