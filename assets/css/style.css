@@ -34,6 +34,50 @@ body {
     background-color: #1b0132;
 }
 
+/* Spacing */
+.gap100 {
+    padding: 40px 0px;
+}
+
+.gapdiv {
+    padding-top: 100px;
+}
+
+.coldiv {
+    margin: auto;
+}
+
+/* Text Decoration */
+h2 {
+    text-decoration: underline;
+}
+
+/* Colors */
+h2, h3, h5 {
+    color:#ffdc00
+}
+
+p, caption {
+    color:cornsilk
+}
+
+/* Live Events Table */
+.table-dark {
+    --bs-table-bg:#1b0132;
+    }
+
+tbody, tfoot, thead {
+    border-top-color:#ffdc00;
+    border-left-color: #ffdc00;
+    border-right-color: #ffdc00;
+    border-bottom-color: #ffdc00;
+    border-width: 3px;
+}
+
+.th {
+    box-sizing: initial;
+}
+
 /* Footer */
 .footer {
     background-color: #ffdc00;
