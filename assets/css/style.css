@@ -71,7 +71,7 @@ h1, h3 {
 .Transport-head {
     padding: 20px;
 }
-p{
+.Travel-info {
     color: cornsilk;
     padding: 15px 0;
     font-size: 20px;
@@ -91,6 +91,27 @@ li {
     color: cornsilk;
     font-size: 20px;
     padding: 5px;
+}
+.form-label {
+    color: cornsilk;
+    font-size: 20px;
+}
+.btn {
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 5px 15px;
+    border-radius: 23px;
+    background-color: #ffdc00;
+    width: 160px;
+    border-color: #1b0132;
+}
+.btn--primary:hover,
+.btn--primary:active,
+.btn--primary:focus,
+.btn--primary:active:focus {
+    background-color: orangered;
+    border-color: black;
+
 }
 
 
