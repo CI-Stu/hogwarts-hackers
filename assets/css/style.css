@@ -113,6 +113,10 @@ li {
     border-color: black;
 
 }
+iframe {
+    text-align: center;
+    padding-left: 12rem;
+}
 
 
 
