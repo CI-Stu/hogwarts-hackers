@@ -19,8 +19,8 @@
 }
 
 .navbar img {
-    display: inline-block;
-    max-height: 5rem;
+    display:inline-block;
+    max-height: 4rem;
     margin-right: 0.5rem;
 }
 
@@ -29,10 +29,35 @@
     font-weight: 500;
 }
 
+/* Index Page */
+.bg-wild {
+    background-color: #1b0132;
+    border-style: solid;
+    border-color: #ffdc00;
+}
+
+.main-heading {
+    color: #1b0132;
+}
+
+.nav-item {
+    margin-right: 1rem;
+    color: #1b0132;
+}
+
 body {
     font-family: 'Roboto', serif;
     background-color: #1b0132;
 }
+
+/* Carousel */
+
+ .carousel-inner > .item > img,
+ .carousel-inner > .item > a > img {
+     display: block;
+     max-width: 100%;
+     height: 400px !important;
+ }
 
 /* Footer */
 .footer {
