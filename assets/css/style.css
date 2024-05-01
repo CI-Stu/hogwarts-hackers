@@ -60,13 +60,18 @@ h2 {
     text-decoration: underline;
 }
 
+td {
+    font-size: 120%;
+}
+
 /* Colors */
 h2, h3, h5 {
     color:#ffdc00
 }
 
 p, caption {
-    color:cornsilk
+    color:cornsilk;
+    font-size: 120%;
 }
 
 /* Live Events Table */
