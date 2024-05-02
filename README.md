@@ -146,63 +146,63 @@ This site features a form for the user to be able to send queries and questions 
 # Testing #
 
 ## 1. HTML Validation
-
+* Hogsmeade website and all it's individual pages were validated through HTML and CSS validator
+![html validation for hogsmeade website index](/assets/images/index-page-html-validated "hogsmeade website index validation")
+![html validation for hogsmeade website attractions](/assets/images/attractions-page-html-validated "hogsmeade website attractions validation")
+![html validation for hogsmeade website visitor info](/assets/images/visitinfo-page-html-validated "hogsmeade website visitor info validation")
 
 ## 2. CSS Validation
-
+![css validation for hogsmeade website visitor info](/assets/images/hogsmeade-css-validated "hogsmeade website css validation")
 
 ## 3. Accessibility
-
+* This website contains alt text for images and links where appropriate for all users to view and browse the website and also in case any images fail to load, the alt text will display what would have been there so the website is still somewhat usable.
 
 ## 4. Device Testing
-
+*Throughout the web development process, responsiveness was tested across devices such as iPhone 12 Pro Max, Google Pixel 2 XL, Laptop and Desktop.
 
 ## 5. Browser Testing
-
+* This website was tested using Google Chrome.
 
 ## 6. Testing Breakdown and Results
-
+* The website displayed as intended for the most part with some minor bugs found.
 
 ## 7. Testing User Stories
 
-
-
 ## 8. Known Bugs and Fixes
-
 ### Visitor Information Page - Google maps overflows the div it is contained within
 * Currently no fix has been determined after many failed attempts
-
-### [INSERT BUG NAME HERE]
-*
-
-### [INSERT BUG NAME HERE]
-*
-
-
+### When re-sizing to smaller devices such as 320px or below, the images change positions and large spaces were created.
+* The fix was to set margins to auto and 0 as well as setting padding to 0.
+### Images in carousel were overflowing the div on all device sizes
+*The fix was to re-size the image resolutions via a free online image editor and also amended the css coding for pixels in margins.
 
 # Deployment #
 
 Site was deployed as follows:
-* 
-
-
+*  Site was deployed on GitHub
 
 - - - -
 # Sources #
 
 ## 1. Media
-*
+*Gencraft AI https://gencraft.com
+*Google Images
+*Logo and Favicon https://Logo.com
 
 ## 2. Homepage Content
+*Chat GPT AI
 
 ## 3. Attractions Page Content
+*Chat GPT AI
 
 ## 4. Visitor Information Page Content
+*Chat GPT AI
+*Google Maps
+*https://harrypotter.fandom.com
 
 ## 5. Code
-
-*The HTML and CSS uses Bootstrap v5.3.2: [INSERT BOOTSTRAP HYPERLINK HERE]
+*The HTML and CSS uses Bootstrap v5.3.2: [https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css]
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
 # Future Releases and Endeavors #
-
-*
+*Submit button in the “Contact Form” will be live and report a separate modal to confirm submission.
