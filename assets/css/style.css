@@ -50,6 +50,70 @@ body {
     background-color: #1b0132;
 }
 
+/* Spacing */
+.gap100 {
+    padding: 40px 0px;
+}
+
+.spacing-div {
+    margin-bottom: 0;
+    margin-top: 30px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.top-space {
+    margin-top: 5px;
+}
+
+/* Div Positioning */
+div {
+    display: block;
+}
+
+/* Text Decoration */
+attract-h2 {
+    text-decoration: underline;
+    color: #ffdc00;
+}
+
+td {
+    font-size: 120%;
+}
+
+/* Colors */
+h3, attract-h5 {
+    color:#ffdc00
+}
+
+p, caption {
+    color:cornsilk;
+    font-size: 120%;
+}
+
+/* Live Events Table */
+.table-dark {
+    --bs-table-bg:#1b0132;
+    }
+
+tbody, tfoot, thead {
+    border-top-color:#ffdc00;
+    border-left-color: #ffdc00;
+    border-right-color: #ffdc00;
+    border-bottom-color: #ffdc00;
+    border-width: 3px;
+}
+
+/* Images */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Padding for Icons and H2 Titles */
+span {
+    padding-left: 10px;
 /* Carousel */
 .carousel-inner {
     height: 492px;
@@ -104,8 +168,3 @@ h5 {
     padding: 25%;
     color: #1b0132;
 }
-
-
-
-
-
