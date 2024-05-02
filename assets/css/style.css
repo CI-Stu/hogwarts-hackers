@@ -74,7 +74,7 @@ div {
 /* Text Decoration */
 .attract-h2 {
     text-decoration: underline;
-    color: #ffdc00;
+    color:#ffdc00;
 }
 
 td {
@@ -83,7 +83,7 @@ td {
 
 /* Colors */
 h3, .attract-h5 {
-    color:#ffdc00
+    color:#ffdc00;
 }
 
 p, caption {
@@ -115,15 +115,16 @@ img {
 span {
     padding-left: 10px;
 }
+
 /* Carousel */
 .carousel-inner {
     height: 492px;
-    
 }
+
 .carousel-item img {
     margin:auto;
-
 }
+
 h5 {
     font-family: 'Roboto', serif;
     color:cornsilk;
@@ -133,10 +134,85 @@ h5 {
     color: #ffdc00;
 }
 
-
 .about-hog {
     margin-bottom: 100px;
     text-align: center;
+}
+
+/*-------------------------------- Visitor Information*/
+.visit-h3 {
+    color: #FFDC00;
+}
+.visit-h2{
+   color: #FFDC00;
+}
+.Transport-head {
+    padding: 20px;
+}
+.Travel-info {
+    color: cornsilk;
+    padding: 15px 0;
+    font-size: 20px;
+}
+.img-fix {
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img-travel {
+    max-width: 50%;
+    max-height: 50%;
+    margin-left: 45px;
+}
+li {
+    color: cornsilk;
+    font-size: 20px;
+    padding: 5px;
+}
+.form-label {
+    color: cornsilk;
+    font-size: 20px;
+}
+.btn {
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 5px 15px;
+    border-radius: 23px;
+    background-color: #FFDC00;
+    width: 160px;
+    border-color: #1B0132;
+}
+.btn--primary:hover,
+.btn--primary:active,
+.btn--primary:focus,
+.btn--primary:active:focus {
+    background-color: orangered;
+    border-color: black;
+}
+iframe {
+    text-align: center;
+    margin: 0 6rem;
+}
+.map-btn {
+    background-color: #FFDC00;
+    color: #1B0132;
+    font-size: 22px;
+}
+.map-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+.map-responsive iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 10px;
+    width: 100%;
+    height: 100%;
+    border: 0;
 }
 
 /* Footer */
