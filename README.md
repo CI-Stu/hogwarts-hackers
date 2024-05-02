@@ -118,16 +118,17 @@ This site features a form for the user to be able to send queries and questions 
 ## 5. Wireframes
 
 * Main Page Wireframe
-[INSERT WIREFRAME HERE]
+![wireframe homepage](/assets/images/WireframeHome.png "wireframe homepage")
 
-* [NAME] Page Wireframe
-[INSERT WIREFRAME HERE]
+* Attractions Page Wireframe
+![wireframe attractions page](/assets/images/Wireframe-attractions.png "wireframe attractions page")
 
-* [NAME] Page Wireframe
-[INSERT WIREFRAME HERE]
+* Visitor Information Page Wireframe
+![wireframe visitor information page](/assets/images/Wireframe-VisInfo.png "wireframe visitor information page")
 
 
 ## 6. Logo & Favicon
+
 
 ### 1. Logo
 * Created by https://www.logo.com
