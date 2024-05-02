@@ -72,7 +72,7 @@ div {
 }
 
 /* Text Decoration */
-attract-h2 {
+.attract-h2 {
     text-decoration: underline;
     color: #ffdc00;
 }
@@ -82,7 +82,7 @@ td {
 }
 
 /* Colors */
-h3, attract-h5 {
+h3, .attract-h5 {
     color:#ffdc00
 }
 
@@ -114,13 +114,14 @@ img {
 /* Padding for Icons and H2 Titles */
 span {
     padding-left: 10px;
+}
 /* Carousel */
 .carousel-inner {
     height: 492px;
     
 }
 .carousel-item img {
-    margin:auto
+    margin:auto;
 
 }
 h5 {
