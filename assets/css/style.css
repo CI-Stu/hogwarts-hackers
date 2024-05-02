@@ -19,8 +19,8 @@
 }
 
 .navbar img {
-    display: inline-block;
-    max-height: 5rem;
+    display:inline-block;
+    max-height: 4rem;
     margin-right: 0.5rem;
 }
 
@@ -29,9 +29,114 @@
     font-weight: 500;
 }
 
+/* Index Page */
+.Hogsmeade-ind {
+    background-color: #1b0132;
+    border-style: solid;
+    border-color: #ffdc00;
+}
+
+.main-heading {
+    color: #1b0132;
+}
+
+.nav-item {
+    margin-right: 1rem;
+    color: #1b0132;
+}
+
 body {
     font-family: 'Roboto', serif;
     background-color: #1b0132;
+}
+
+/* Spacing */
+.gap100 {
+    padding: 40px 0px;
+}
+
+.spacing-div {
+    margin-bottom: 0;
+    margin-top: 30px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.top-space {
+    margin-top: 5px;
+}
+
+/* Div Positioning */
+div {
+    display: block;
+}
+
+/* Text Decoration */
+.attract-h2 {
+    text-decoration: underline;
+    color: #ffdc00;
+}
+
+td {
+    font-size: 120%;
+}
+
+/* Colors */
+h3, .attract-h5 {
+    color:#ffdc00
+}
+
+p, caption {
+    color:cornsilk;
+    font-size: 120%;
+}
+
+/* Live Events Table */
+.table-dark {
+    --bs-table-bg:#1b0132;
+    }
+
+tbody, tfoot, thead {
+    border-top-color:#ffdc00;
+    border-left-color: #ffdc00;
+    border-right-color: #ffdc00;
+    border-bottom-color: #ffdc00;
+    border-width: 3px;
+}
+
+/* Images */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Padding for Icons and H2 Titles */
+span {
+    padding-left: 10px;
+}
+/* Carousel */
+.carousel-inner {
+    height: 492px;
+    
+}
+.carousel-item img {
+    margin:auto;
+
+}
+h5 {
+    font-family: 'Roboto', serif;
+    color:cornsilk;
+}
+
+.about-hog h2 {
+    color: #ffdc00;
+}
+
+
+.about-hog {
+    margin-bottom: 100px;
+    text-align: center;
 }
 
 /* Footer */
@@ -64,6 +169,7 @@ body {
     padding: 25%;
     color: #1b0132;
 }
+<<<<<<< HEAD
 
 /*-------------------------------- Visitor Information*/
 h1, h3 {
@@ -143,3 +249,5 @@ iframe {
 
 
 
+=======
+>>>>>>> main
