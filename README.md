@@ -129,14 +129,17 @@ This site features a form for the user to be able to send queries and questions 
 
 ## 6. Logo & Favicon
 
-
 ### 1. Logo
 * Created by https://www.logo.com
 * Team decided on Logo 4 out of a possible 4 logo options.
 
+![logo for hogsmeade website](/assets/images/h-high-resolution-logo.png "hogsmeade website logo")
+
 ### 2. Favicon
 * Created by https://www.logo.com
 * Team decided on Favicon 3 out of a possible 4 Favicon options.
+
+![favicon for hogsmeade website](/assets/favicon/favicon-32x32.png "hogsmeade website favicon")
 
 - - - -
 
